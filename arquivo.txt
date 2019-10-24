@@ -1,2 +1,6 @@
 "hello git"
 adicionando linha
+adicionando linhha1
+adicionando linha2
+adicionando linha3
+adicionando linha4
